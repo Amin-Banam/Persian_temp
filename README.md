@@ -1,4 +1,4 @@
-# Persian_temp
+# Persian_temp Bootstrap
 ![viewfinal](assets/img/mobile-1.png)
 
 - [Demo Project](https://amin-banam.github.io/Persian_temp/)
@@ -7,7 +7,7 @@
 
 - Created - 2023-07-11
 
-- Technologies Used - Html , css
+- Technologies Used - Html , CSS ,Scss ,Bootstrap
 
 - Hooks Used : useState 
 
